@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(201, 177, 246);
+}
+h1, th, p {
+  font-family: 'Fjalla One', sans-serif;
+}
+th {
+  padding: 40px 0px 0px 0px;
+  border-bottom: 2px solid rgb(119, 2, 82);
+}
+td {
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 10px;
+}
+a {
+  color: rgb(119, 2, 82);
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+  border: 2px solid rgb(119, 2, 82);
+  padding: 5px;
+  margin: 10px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
